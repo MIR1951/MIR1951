@@ -1,81 +1,79 @@
 <!-- HEADER -->
-<h1 align="center">👋 Hey, I'm Mir</h1>
 <p align="center">
-  <i>iOS Developer • SwiftUI Craftsman • Mobile Product Builder</i>
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=500&size=28&duration=2500&pause=1200&color=F39C12&center=true&vCenter=true&width=550&lines=Hey%2C+I'm+Mir+👋;iOS+Developer+%7C+SwiftUI+Engineer;Crafting+clean+%26+elegant+experiences" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Xcode-000000?logo=xcode&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/iOS%20Developer-111111?style=for-the-badge"/>
-</p>
+<br/>
 
----
-
+<!-- ABOUT -->
 ## 🍏 About Me
-- ✨ Focus: **iOS development**, Swift, SwiftUI  
-- 📱 Building modern mobile apps with clean design & scalable architecture  
-- 🔥 Currently developing:
-  - **Smart Parking** – realtime + geolocation based parking app  
-  - **LangMap** – AI-powered language learning  
-  - **ZAFAR Style** – barber appointment with Supabase real-time  
-- 🎮 Gamer setup lover — OLED monitors, Apple ecosystem  
-- ☕ Minimalist workspace enthusiast  
+Passionate **iOS Developer** building elegant, fast and minimal user experiences.  
+Creating real products that solve real problems.
+
+- 🚗 Building **Smart Parking** (real-time, location-based)  
+- 🌍 Creating **LangMap** — AI powered language learning  
+- ✂️ Developer of **ZAFAR Style** — barber booking app  
+- 🧠 Loving Swift, SwiftUI, Firebase, Supabase  
+- 🎯 Focus: Clean architecture, animations, modern UI
 
 ---
 
+<!-- SKILLS -->
 ## 🛠 Tech Stack
-### Languages  
-<img src="https://skillicons.dev/icons?i=swift,python,cpp,c" height="45"/>
 
-### Frameworks  
-<img src="https://skillicons.dev/icons?i=swiftui,firebase,flask" height="45"/>
-
-### Tools  
-<img src="https://skillicons.dev/icons?i=xcode,git,github,figma" height="45"/>
-
----
-
-## 📊 GitHub Overview
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-### 🧭 Smart Parking App  
-SwiftUI + Firebase + LocationManager  
-Realtime nearby & trending parking spots with clean UI.
-
-### 🌍 LangMap  
-AI-driven language recommendation engine using Swift + Flask + OpenAI.
-
-### ✂️ ZAFAR Style  
-Supabase realtime appointment + modern UI.  
-100% iOS-native booking flow.
-
----
-
-## 🔗 Connect with Me
+### **Languages & Frameworks**
 <p>
-  <a href="https://t.me/YOUR_TELEGRAM">
-    <img src="https://skillicons.dev/icons?i=telegram" width="45" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=swift,swiftui,firebase,python,flask" />
+</p>
+
+### **Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=xcode,git,github,figma,vscode" />
 </p>
 
 ---
 
-<div align="center">
-  
-**“Keep it simple. Ship fast. Learn always.”**
-  
-</div>
+<!-- PROJECTS -->
+## 🚀 Featured Projects
+
+### 🔹 **Smart Parking App**
+Real-time parking discovery with map integration and location-aware UI.
+
+### 🔹 **LangMap AI**
+AI-powered language learning app, personalized learning map, progress system.
+
+### 🔹 **ZAFAR Style**
+Supabase real-time barber appointment system with clean SwiftUI design.
+
+---
+
+<!-- STATS -->
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_title=true&icon_color=F39C12&text_color=ffffff" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&ring=F39C12&fire=F39C12&currStreakLabel=FFFFFF" height="150"/>
+</p>
+
+---
+
+<!-- LANGUAGES -->
+## 📦 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&text_color=ffffff" height="150"/>
+</p>
+
+---
+
+<!-- CONTACT -->
+## 🔗 Connect With Me
+<p>
+  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://skillicons.dev/icons?i=telegram" width="42"></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" width="42"></a>
+</p>
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:F39C12,100:000000&height=120&section=footer"/>
+</p>
